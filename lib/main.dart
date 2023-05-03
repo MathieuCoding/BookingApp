@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:hotels/calendar_page.dart';
 
+
 const dGreen = Color(0xFF54D3C2);
 
 void main() {
@@ -20,6 +21,7 @@ class MyApp extends StatelessWidget {
   }
 }
 
+// Home page
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
 
@@ -40,6 +42,7 @@ class HomePage extends StatelessWidget {
   }
 }
 
+// Top nav bar
 class MyAppBar extends StatelessWidget implements PreferredSizeWidget {
   const MyAppBar({super.key});
   Size get preferredSize => new Size.fromHeight(50);
