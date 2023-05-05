@@ -85,6 +85,7 @@ class MyAppBar extends StatelessWidget implements PreferredSizeWidget {
   }
 }
 
+// Search section
 class SearchSection extends StatelessWidget {
   const SearchSection({super.key});
   @override
