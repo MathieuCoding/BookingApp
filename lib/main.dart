@@ -219,6 +219,7 @@ class SearchSection extends StatelessWidget {
   }
 }
 
+// Hotel list section
 class HotelSection extends StatelessWidget {
   HotelSection({super.key});
 
