@@ -310,7 +310,7 @@ class HotelSection extends StatelessWidget {
 }
 
 
-
+// Hotel cards of the hotel list 
 class HotelCard extends StatelessWidget {
   final Map hotelData;
   HotelCard(this.hotelData);
