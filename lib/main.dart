@@ -483,7 +483,7 @@ class HotelCard extends StatelessWidget {
   }
 }
 
-
+// Bottom nav bar 
 class BottomNavBarSection extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
