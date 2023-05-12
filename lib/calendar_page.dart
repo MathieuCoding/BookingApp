@@ -43,6 +43,7 @@ class MyAppBar extends StatelessWidget implements PreferredSizeWidget {
   }
 }
 
+// Period section
 class PeriodSection extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
